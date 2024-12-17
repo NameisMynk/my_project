@@ -1,0 +1,3 @@
+/home/mynk/EDA_Project/build/CMakeFiles/EDA_PROJECT.dir
+/home/mynk/EDA_Project/build/CMakeFiles/edit_cache.dir
+/home/mynk/EDA_Project/build/CMakeFiles/rebuild_cache.dir
